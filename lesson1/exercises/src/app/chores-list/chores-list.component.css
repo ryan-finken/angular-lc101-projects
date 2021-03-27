@@ -1,0 +1,11 @@
+.chores {
+    font-family:fantasy;
+}
+
+.chores h3 {
+    text-decoration: underline;
+}
+
+.chores ul {
+    font-style: italic;
+}
